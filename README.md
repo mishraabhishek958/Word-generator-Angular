@@ -1,6 +1,15 @@
 # WordGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+This application takes the value from the slider and produces the words based on the input.
+Also it generate a Random Number through a button and generate the words
+
+## Run the command npm install for node_modules
+
+## Learning
+1)Taking the user input
+2)ngIf in angular
+3)New CSS codes
 
 ## Development server
 
